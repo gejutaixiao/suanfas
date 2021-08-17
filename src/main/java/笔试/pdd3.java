@@ -1,8 +1,5 @@
-package 面试;
+package 笔试;
 
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Random;
 
 public class pdd3 {

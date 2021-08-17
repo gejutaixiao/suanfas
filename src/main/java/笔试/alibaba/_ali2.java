@@ -1,4 +1,4 @@
-package 面试.alibaba;
+package 笔试.alibaba;
 
 import java.util.HashMap;
 import java.util.HashSet;

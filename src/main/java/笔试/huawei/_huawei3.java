@@ -1,4 +1,4 @@
-package 面试.huawei;
+package 笔试.huawei;
 
 import java.util.LinkedList;
 

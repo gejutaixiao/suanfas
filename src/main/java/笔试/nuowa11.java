@@ -1,4 +1,4 @@
-package 面试;
+package 笔试;
 
 public class nuowa11 {
     public String reverseString(String s) {
